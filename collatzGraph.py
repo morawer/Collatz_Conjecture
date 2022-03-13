@@ -3,7 +3,6 @@ from pylab import *
 values = []
 
 number = input('Write a number: ')
-
 intNumber = int(number)
 
 def collatz(number):
