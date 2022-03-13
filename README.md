@@ -8,4 +8,8 @@ I started this script to practice the recursivity and learn to create graphics w
 
 ![picture alt](https://i.ytimg.com/vi/MRb1LOko0o8/maxresdefault.jpg)
 
+In the beggining i have been testing 'pylab' module to create a simple graph for only one number. This graphic shows us the differents values takes and the iterations of the number you intruduces for input.
+![picture alt](https://github.com/morawer/Collatz_Conjecture/blob/master/graphNum9.png)
+
+In the following days i will try to make the graphic with more values in the same time.
 ;)
